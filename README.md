@@ -1,3 +1,3 @@
-# codealpha_tasks
+# Data Science and Analysis
 
-The codes are projects from CodeAlpha intership
+The codes are projects i have worked on.
